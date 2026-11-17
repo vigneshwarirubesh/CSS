@@ -8,20 +8,19 @@ This repository contains the HTML and CSS programs I practised while learning th
 
 The following programs were practised:
 
-S.No| Program| Description
-1| "basic.html"| Basic HTML structure
-2| "boarders.html"| Border Properties
-3| "bordercolor.html"| Border Color
-4| "classselector.html"| Class Selector
-5| "colourscss.html"| Colors
-6| "creatingidforpara.html"| Creating ID for Paragraphs
-7| "fontsize.html"| Font Size
-8| "fontstyle.html"| Font Style
-9| "margins.html"| Margins
-10| "padding.html"| Padding
-11| "reportcardwithcss.html"| Report Card Using CSS
-12| "simplereportcard.html"| Simple Report Card
-13| "universalselector.html"| Universal Selector
+1-Basic HTML structure ,
+2-Border Properties ,
+3-Border Colors ,
+4-Class Selector ,
+5-Colors ,
+6-Creating ID for Paragraphs ,
+7-Font Size ,
+8-Font Style ,
+9-Margins ,
+10-Padding ,
+11-Report Card Using CSS ,
+12-Simple Report Card ,
+13-Universal Selector
 
 🛠️ Technologies Used
 
