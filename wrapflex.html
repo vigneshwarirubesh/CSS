@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .container {
+                display: flex;
+                background-color:dodgerblue;
+                flex-wrap: wrap;
+                overflow-x: auto;
+            }
+            .container div{
+                background-color:#f1f1f1;
+                width:100px;
+                margin:10px;
+                padding:10px;
+                text-align:center;
+                font-size:24px;
+            }
+            .container1 {
+                display: flex;
+                background-color:dodgerblue;
+                flex-wrap: nowrap;
+                overflow-x: auto;
+            }
+            .container1 div{
+                background-color:#f1f1f1;
+                width:100px;
+                margin:10px;
+                padding:10px;
+                text-align:center;
+                font-size:24px;
+            }
+            .container2 {
+                display: flex;
+                background-color:dodgerblue;
+                flex-wrap: wrap-reverse;
+                overflow-x: auto;
+            }
+            .container2 div{
+                background-color:#f1f1f1;
+                width:100px;
+                margin:10px;
+                padding:10px;
+                text-align:center;
+                font-size:24px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Create a flex wrap in wrap</h1>
+        <div class="container">
+            <div>Item 1</div>
+            <div>Item 2</div>
+            <div>Item 3</div>
+            <div>Item 4</div>
+            <div>Item 5</div>
+            <div>Item 6</div>
+            <div>Item 7</div>
+            <div>Item 8</div>
+            <div>Item 9</div>
+        </div>
+        <h1> Create a flex wrap in nowrap</h1>
+        <div class="container1">
+            <div>Item 1</div>
+            <div>Item 2</div>
+            <div>Item 3</div>
+            <div>Item 4</div>
+            <div>Item 5</div>
+            <div>Item 6</div>
+            <div>Item 7</div>
+            <div>Item 8</div>
+            <div>Item 9</div>
+        </div>
+         <h1> Create a flex wrap in wrap-reverse</h1>
+        <div class="container2">
+            <div>Item 1</div>
+            <div>Item 2</div>
+            <div>Item 3</div>
+            <div>Item 4</div>
+            <div>Item 5</div>
+            <div>Item 6</div>
+            <div>Item 7</div>
+            <div>Item 8</div>
+            <div>Item 9</div>
+        </div>
+        <p>Flexbox must have a parent element with the display property</p>
+    </body>
+</html>
